@@ -1,0 +1,23 @@
+{
+  "name": "adventofcode2023",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "01:1": "ts-node ./src/01/1.ts",
+    "01:2": "ts-node ./src/01/2.ts",
+    "02:1": "ts-node ./src/02/1.ts",
+    "02:2": "ts-node ./src/02/2.ts",
+    "03:1": "ts-node ./src/03/1.ts",
+    "03:test": "ts-node ./src/03/test.ts",
+    "03:2": "ts-node ./src/03/2.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.10.3",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.3.2"
+  }
+}
